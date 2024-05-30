@@ -1,0 +1,21 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: latest
+    commands:
+      - node -v
+      - npm -v
+      - npm install
+  build:
+    commands:
+      - npm run build
+artifacts:
+  files:
+    - "**/*"
+  base-directory: .next
+  discard-paths: no
+cache:
+  paths:
+    - "node_modules/**/*"
