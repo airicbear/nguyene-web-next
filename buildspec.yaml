@@ -14,7 +14,7 @@ phases:
 artifacts:
   files:
     - "**/*"
-  base-directory: .next/server/app
+  base-directory: out
   discard-paths: no
 cache:
   paths:
