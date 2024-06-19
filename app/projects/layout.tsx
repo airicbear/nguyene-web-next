@@ -1,5 +1,4 @@
-import type { Metadata } from "next";
-import "./globals.css";
+import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "nguyene.com",
@@ -13,9 +12,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="bg-white dark:bg-black text-black dark:text-white">
-        {children}
-      </body>
+      <body>{children}</body>
     </html>
   );
 }
