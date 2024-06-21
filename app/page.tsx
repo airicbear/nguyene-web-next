@@ -7,7 +7,13 @@ export default function Home() {
         </div>
         <div className="py-8">
           <div>
-            <p>Welcome to nguyene.com.</p>
+            <ul>
+              <li>
+                <a href="https://airicbear.github.io/sha256-online-hasher/">
+                  airicbear.github.io/sha256-online-hasher
+                </a>
+              </li>
+            </ul>
           </div>
         </div>
       </div>
