@@ -1,3 +1,6 @@
+import { ProjectComponent } from "@/components/ProjectComponent";
+import projects from "../data/projects-data.json";
+
 export default function Home() {
   return (
     <main>
@@ -6,15 +9,11 @@ export default function Home() {
           <p className="font-bold italic text-7xl">nguyene.com</p>
         </div>
         <div className="py-8">
-          <div>
-            <ul>
-              <li>
-                <a href="https://airicbear.github.io/sha256-online-hasher/">
-                  airicbear.github.io/sha256-online-hasher
-                </a>
-              </li>
-            </ul>
-          </div>
+          {projects.map((project, index) => (
+            <div key={index}>
+              <ProjectComponent project={project} />
+            </div>
+          ))}
         </div>
       </div>
     </main>
