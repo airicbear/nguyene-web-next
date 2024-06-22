@@ -9,11 +9,17 @@ export default function Home() {
           <p className="font-bold italic text-7xl">nguyene.com</p>
         </div>
         <div className="py-8">
-          {projects.map((project, index) => (
-            <div key={index}>
-              <ProjectComponent project={project} />
-            </div>
-          ))}
+          {projects
+            .sort((a, b) => {
+              const dateA = new Date(a.dateCreated);
+              const dateB = new Date(b.dateCreated);
+              return dateA.getTime() - dateB.getTime();
+            })
+            .map((project, index) => (
+              <div key={index}>
+                <ProjectComponent project={project} />
+              </div>
+            ))}
         </div>
       </div>
     </main>

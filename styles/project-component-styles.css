@@ -16,5 +16,6 @@
     @apply border;
     @apply border-indigo-600;
     @apply space-x-1;
+    @apply m-1;
   }
 }

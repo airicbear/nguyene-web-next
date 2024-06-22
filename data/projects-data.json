@@ -4,5 +4,29 @@
         "websiteUrl": "https://airicbear.github.io/sha256-online-hasher/",
         "sourceUrl": "https://github.com/airicbear/sha256-online-hasher",
         "dateCreated": "2018-06-30"
+    },
+    {
+        "title": "Bars",
+        "websiteUrl": "https://airicbear.github.io/bars/",
+        "sourceUrl": "https://github.com/airicbear/bars",
+        "dateCreated": "2018-08-12"
+    },
+    {
+        "title": "Simple Login",
+        "websiteUrl": "https://airicbear.github.io/simple-login/",
+        "sourceUrl": "https://github.com/airicbear/simple-login",
+        "dateCreated": "2018-09-08"
+    },
+    {
+        "title": "SHA256 Online Hasher V2",
+        "websiteUrl": "https://airicbear.github.io/sha256-web",
+        "sourceUrl": "https://github.com/airicbear/sha256-web",
+        "dateCreated": "2018-08-28"
+    },
+    {
+        "title": "Werner Heisenberg Class Presentation",
+        "websiteUrl": "https://airicbear.github.io/werner-heisenberg/",
+        "sourceUrl": "https://github.com/airicbear/werner-heisenberg",
+        "dateCreated": "2018-10-12"
     }
 ]
