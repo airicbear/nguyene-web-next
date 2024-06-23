@@ -39,8 +39,10 @@ export function ProjectComponent({ project }: ProjectComponentProps) {
           Source
         </ProjectComponentLink>
       </span>
-      <span className="pill">{project.dateCreated}</span>
-      <span className="pill">{project.title}</span>
+      <span className="pill basis-1/4 sm:basis-1/6">{project.dateCreated}</span>
+      <span className="pill text-left basis-7/12 sm:basis-2/3">
+        {project.title}
+      </span>
     </div>
   );
 }

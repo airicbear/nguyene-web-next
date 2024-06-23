@@ -54,11 +54,6 @@
         "dateCreated": "2018-12-15"
     },
     {
-        "title": "Twice Android App",
-        "sourceUrl": "https://github.com/airicbear/twice",
-        "dateCreated": "2019-02-10"
-    },
-    {
         "title": "Integral Table",
         "websiteUrl": "https://airicbear.github.io/integral-table",
         "sourceUrl": "https://github.com/airicbear/integral-table",
@@ -111,5 +106,167 @@
         "websiteUrl": "https://airicbear.github.io/rainbow",
         "sourceUrl": "https://github.com/airicbear/rainbow",
         "dateCreated": "2020-06-10"
+    },
+    {
+        "title": "Nucleobase Matching Game",
+        "websiteUrl": "https://airicbear.github.io/nucleobase-matching-game/",
+        "sourceUrl": "https://github.com/airicbear/nucleobase-matching-game",
+        "dateCreated": "2020-06-16"
+    },
+    {
+        "title": "Juice WRLD Lyrics",
+        "websiteUrl": "https://airicbear.github.io/juice-wrld-lyrics/#/",
+        "sourceUrl": "https://github.com/airicbear/juice-wrld-lyrics",
+        "dateCreated": "2020-07-11"
+    },
+    {
+        "title": "Temple University Final Exams Review",
+        "websiteUrl": "https://airicbear.github.io/finals-review/",
+        "sourceUrl": "https://github.com/airicbear/finals-review",
+        "dateCreated": "2021-04-30"
+    },
+    {
+        "title": "Parametric Equation Animations",
+        "websiteUrl": "https://airicbear.github.io/parametric-equation-animations",
+        "sourceUrl": "https://github.com/airicbear/parametric-equation-animations",
+        "dateCreated": "2021-05-16"
+    },
+    {
+        "title": "MATH3031 Probability Theory I",
+        "websiteUrl": "https://airicbear.github.io/MATH3031/",
+        "sourceUrl": "https://github.com/airicbear/MATH3031",
+        "dateCreated": "2021-12-26"
+    },
+    {
+        "title": "String Utils",
+        "websiteUrl": "https://airicbear.github.io/string-utils/",
+        "sourceUrl": "https://github.com/airicbear/string-utils",
+        "dateCreated": "2022-03-03"
+    },
+    {
+        "title": "Weeekly App",
+        "websiteUrl": "https://airicbear.github.io/weeeklyapp/",
+        "sourceUrl": "https://github.com/airicbear/weeeklyapp",
+        "dateCreated": "2020-10-17"
+    },
+    {
+        "title": "IU Lyrics",
+        "websiteUrl": "https://play.google.com/store/apps/details?id=com.github.airicbear.iu_lyrics",
+        "sourceUrl": "https://github.com/airicbear/iu_lyrics",
+        "dateCreated": "2019-02-27"
+    },
+    {
+        "title": "PHYS4000 Astrophysics",
+        "websiteUrl": "https://airicbear.github.io/PHYS4000/",
+        "sourceUrl": "https://github.com/airicbear/PHYS4000",
+        "dateCreated": "2022-12-17"
+    },
+    {
+        "title": "MATH3043 Numerical Analysis I",
+        "websiteUrl": "https://airicbear.github.io/MATH3043/",
+        "sourceUrl": "https://github.com/airicbear/MATH3043",
+        "dateCreated": "2022-12-17"
+    },
+    {
+        "title": "MATH2101 Linear Algebra",
+        "websiteUrl": "https://airicbear.github.io/MATH2101/",
+        "sourceUrl": "https://github.com/airicbear/MATH2101",
+        "dateCreated": "2021-12-29"
+    },
+    {
+        "title": "ENG2711 Introduction to Film Studies",
+        "websiteUrl": "https://airicbear.github.io/ENG2711/textbook.html",
+        "sourceUrl": "https://github.com/airicbear/ENG2711",
+        "dateCreated": "2022-12-17"
+    },
+    {
+        "title": "CIS4526 Foundations of Machine Learning",
+        "websiteUrl": "https://airicbear.github.io/CIS4526/",
+        "sourceUrl": "https://github.com/airicbear/CIS4526",
+        "dateCreated": "2022-12-17"
+    },
+    {
+        "title": "CIS4523 Knowledge Discovery and Data Mining",
+        "websiteUrl": "https://airicbear.github.io/CIS4523/",
+        "sourceUrl": "https://github.com/airicbear/CIS4523",
+        "dateCreated": "2022-02-03"
+    },
+    {
+        "title": "PHYS2502 Mathematical Physics",
+        "websiteUrl": "https://airicbear.github.io/PHYS2502/",
+        "sourceUrl": "https://github.com/airicbear/PHYS2502",
+        "dateCreated": "2022-03-07"
+    },
+    {
+        "title": "MATH3032 Mathematical Statistics",
+        "websiteUrl": "https://airicbear.github.io/MATH3032",
+        "sourceUrl": "https://github.com/airicbear/MATH3032",
+        "dateCreated": "2022-06-23"
+    },
+    {
+        "title": "PHYS 2796 Modern Physics",
+        "websiteUrl": "https://airicbear.github.io/PHYS2796/",
+        "sourceUrl": "https://github.com/airicbear/PHYS2796",
+        "dateCreated": "2022-01-24"
+    },
+    {
+        "title": "CIS 3715 Project",
+        "websiteUrl": "https://cis-3715-project.vercel.app/",
+        "sourceUrl": "https://github.com/airicbear/cis-3715-project",
+        "dateCreated": "2023-04-11"
+    },
+    {
+        "title": "CIS3715 Principles of Data Science",
+        "websiteUrl": "https://airicbear.github.io/CIS3715/",
+        "sourceUrl": "https://github.com/airicbear/CIS3715",
+        "dateCreated": "2023-05-01"
+    },
+    {
+        "title": "CIS 4496 Project",
+        "websiteUrl": "https://cis-4496-project.vercel.app/",
+        "sourceUrl": "https://github.com/airicbear/cis-4496-project",
+        "dateCreated": "2017-08-15"
+    },
+    {
+        "title": "Tip Calculator",
+        "websiteUrl": "https://tipcalc.etndevel.com/",
+        "sourceUrl": "https://github.com/airicbear/tip_calculator",
+        "dateCreated": "2022-11-22"
+    },
+    {
+        "title": "Personal Website",
+        "websiteUrl": "https://personal-website-mu-olive.vercel.app",
+        "sourceUrl": "https://github.com/airicbear/personal-website/commits/main/",
+        "dateCreated": "2022-08-08"
+    },
+    {
+        "title": "Weather",
+        "websiteUrl": "https://weather-airicbear.vercel.app",
+        "sourceUrl": "https://github.com/airicbear/weather",
+        "dateCreated": "2023-05-25"
+    },
+    {
+        "title": "Tetris",
+        "websiteUrl": "https://tetris-ruddy.vercel.app/",
+        "sourceUrl": "https://github.com/airicbear/tetris",
+        "dateCreated": "2023-07-06"
+    },
+    {
+        "title": "IZ*ONE Fan App",
+        "websiteUrl": "https://play.google.com/store/apps/details?id=com.github.airicbear.izoneapp",
+        "sourceUrl": "https://github.com/airicbear/izoneapp",
+        "dateCreated": "2020-07-09"
+    },
+    {
+        "title": "SEPTA API Demo",
+        "websiteUrl": "https://septa-api-demo.vercel.app/",
+        "sourceUrl": "https://github.com/airicbear/septa-api-demo",
+        "dateCreated": "2024-04-25"
+    },
+    {
+        "title": "ATEEZ Lyrics",
+        "websiteUrl": "https://play.google.com/store/apps/details?id=com.etndevel.ateez_lyrics",
+        "sourceUrl": "https://github.com/airicbear/ateez_lyrics",
+        "dateCreated": "2022-07-26"
     }
 ]
