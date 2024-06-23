@@ -1,6 +1,6 @@
 interface ProjectModel {
-  title: string;
-  websiteUrl: string;
-  sourceUrl: string;
-  dateCreated: string;
+  title?: string;
+  websiteUrl?: string;
+  sourceUrl?: string;
+  dateCreated?: string;
 }

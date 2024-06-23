@@ -9,14 +9,14 @@ function ProjectComponentLink({
   url,
   children,
 }: Readonly<{
-  url: string;
+  url?: string;
   children: React.ReactNode;
 }>) {
   return (
     <a
       href={url}
       className={`text-blue-500 hover:underline ${
-        url?.length > 0 ?? "" ? "" : "text-neutral-600 !no-underline"
+        (url?.length ?? 0) > 0 ? "" : "text-neutral-600 !no-underline"
       }`}
       target="_blank"
       rel="noopener noreferrer"
