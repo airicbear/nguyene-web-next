@@ -6,7 +6,9 @@ export default function Home() {
     <main>
       <div className="max-w-4xl mx-auto">
         <div className="text-center">
-          <p className="font-bold italic text-7xl">nguyene.com</p>
+          <p className="font-bold italic text-4xl sm:text-6xl md:text-7xl">
+            nguyene.com
+          </p>
         </div>
         <div className="my-8">
           {projects
