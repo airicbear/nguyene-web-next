@@ -28,5 +28,88 @@
         "websiteUrl": "https://airicbear.github.io/werner-heisenberg/",
         "sourceUrl": "https://github.com/airicbear/werner-heisenberg",
         "dateCreated": "2018-10-12"
+    },
+    {
+        "title": "Pyramid Text",
+        "websiteUrl": "https://airicbear.github.io/pyramid-text/",
+        "sourceUrl": "https://github.com/airicbear/pyramid-text",
+        "dateCreated": "2018-10-21"
+    },
+    {
+        "title": "Winter Themed Project 2018",
+        "websiteUrl": "https://airicbear.github.io/winter-theme-2018/",
+        "sourceUrl": "https://github.com/airicbear/winter-theme-2018",
+        "dateCreated": "2018-11-27"
+    },
+    {
+        "title": "CIS: Partnership Podcast - NLP",
+        "websiteUrl": "https://airicbear.github.io/nlp-podcast/",
+        "sourceUrl": "https://github.com/airicbear/nlp-podcast",
+        "dateCreated": "2018-10-21"
+    },
+    {
+        "title": "BTS Profiles",
+        "websiteUrl": "https://airicbear.github.io/bts/",
+        "sourceUrl": "https://github.com/airicbear/bts",
+        "dateCreated": "2018-12-15"
+    },
+    {
+        "title": "Twice Android App",
+        "sourceUrl": "https://github.com/airicbear/twice",
+        "dateCreated": "2019-02-10"
+    },
+    {
+        "title": "Integral Table",
+        "websiteUrl": "https://airicbear.github.io/integral-table",
+        "sourceUrl": "https://github.com/airicbear/integral-table",
+        "dateCreated": "2019-03-23"
+    },
+    {
+        "title": "Twice Website",
+        "websiteUrl": "https://airicbear.github.io/twice/",
+        "sourceUrl": "https://github.com/airicbear/twice",
+        "dateCreated": "2018-12-04"
+    },
+    {
+        "title": "Five",
+        "websiteUrl": "https://airicbear.github.io/five/",
+        "sourceUrl": "https://github.com/airicbear/five",
+        "dateCreated": "2018-02-27"
+    },
+    {
+        "title": "Number Guesser",
+        "websiteUrl": "https://airicbear.github.io/number-guesser/",
+        "sourceUrl": "https://github.com/airicbear/number-guesser",
+        "dateCreated": "2018-10-26"
+    },
+    {
+        "title": "Diary",
+        "websiteUrl": "https://airicbear.github.io/diary/",
+        "sourceUrl": "https://github.com/airicbear/diary",
+        "dateCreated": "2018-07-13"
+    },
+    {
+        "title": "Age Calculator",
+        "websiteUrl": "https://airicbear.github.io/age-calculator",
+        "sourceUrl": "https://github.com/airicbear/age-calculator",
+        "dateCreated": "2019-07-18"
+    },
+    {
+        "title": "Word Frequency Visualizer",
+        "websiteUrl": "https://airicbear.github.io/word-freq-viz/index.html",
+        "sourceUrl": "https://airicbear.github.io/word-freq-viz/index.html",
+        "dateCreated": "2020-05-06"
+    },
+    {
+        "title": "TikZ Drawings",
+        "websiteUrl": "https://airicbear.github.io/tikz-drawings/",
+        "sourceUrl": "https://github.com/airicbear/tikz-drawings",
+        "dateCreated": "2020-05-18"
+    },
+    {
+        "title": "Rainbow",
+        "websiteUrl": "https://airicbear.github.io/rainbow",
+        "sourceUrl": "https://github.com/airicbear/rainbow",
+        "dateCreated": "2020-06-10"
     }
 ]
