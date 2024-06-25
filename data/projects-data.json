@@ -132,7 +132,7 @@
         "dateCreated": "2021-05-16"
     },
     {
-        "title": "MATH3031 Probability Theory I",
+        "title": "MATH 3031 Probability Theory I",
         "websiteUrl": "https://airicbear.github.io/MATH3031/",
         "sourceUrl": "https://github.com/airicbear/MATH3031",
         "dateCreated": "2021-12-26"
@@ -156,49 +156,49 @@
         "dateCreated": "2019-02-27"
     },
     {
-        "title": "PHYS4000 Astrophysics",
+        "title": "PHYS 4000 Astrophysics",
         "websiteUrl": "https://airicbear.github.io/PHYS4000/",
         "sourceUrl": "https://github.com/airicbear/PHYS4000",
         "dateCreated": "2022-12-17"
     },
     {
-        "title": "MATH3043 Numerical Analysis I",
+        "title": "MATH 3043 Numerical Analysis I",
         "websiteUrl": "https://airicbear.github.io/MATH3043/",
         "sourceUrl": "https://github.com/airicbear/MATH3043",
         "dateCreated": "2022-12-17"
     },
     {
-        "title": "MATH2101 Linear Algebra",
+        "title": "MATH 2101 Linear Algebra",
         "websiteUrl": "https://airicbear.github.io/MATH2101/",
         "sourceUrl": "https://github.com/airicbear/MATH2101",
         "dateCreated": "2021-12-29"
     },
     {
-        "title": "ENG2711 Introduction to Film Studies",
+        "title": "ENG 2711 Introduction to Film Studies",
         "websiteUrl": "https://airicbear.github.io/ENG2711/textbook.html",
         "sourceUrl": "https://github.com/airicbear/ENG2711",
         "dateCreated": "2022-12-17"
     },
     {
-        "title": "CIS4526 Foundations of Machine Learning",
+        "title": "CIS 4526 Foundations of Machine Learning",
         "websiteUrl": "https://airicbear.github.io/CIS4526/",
         "sourceUrl": "https://github.com/airicbear/CIS4526",
         "dateCreated": "2022-12-17"
     },
     {
-        "title": "CIS4523 Knowledge Discovery and Data Mining",
+        "title": "CIS 4523 Knowledge Discovery and Data Mining",
         "websiteUrl": "https://airicbear.github.io/CIS4523/",
         "sourceUrl": "https://github.com/airicbear/CIS4523",
         "dateCreated": "2022-02-03"
     },
     {
-        "title": "PHYS2502 Mathematical Physics",
+        "title": "PHYS 2502 Mathematical Physics",
         "websiteUrl": "https://airicbear.github.io/PHYS2502/",
         "sourceUrl": "https://github.com/airicbear/PHYS2502",
         "dateCreated": "2022-03-07"
     },
     {
-        "title": "MATH3032 Mathematical Statistics",
+        "title": "MATH 3032 Mathematical Statistics",
         "websiteUrl": "https://airicbear.github.io/MATH3032",
         "sourceUrl": "https://github.com/airicbear/MATH3032",
         "dateCreated": "2022-06-23"
@@ -216,7 +216,7 @@
         "dateCreated": "2023-04-11"
     },
     {
-        "title": "CIS3715 Principles of Data Science",
+        "title": "CIS 3715 Principles of Data Science",
         "websiteUrl": "https://airicbear.github.io/CIS3715/",
         "sourceUrl": "https://github.com/airicbear/CIS3715",
         "dateCreated": "2023-05-01"
@@ -225,11 +225,11 @@
         "title": "CIS 4496 Project",
         "websiteUrl": "https://cis-4496-project.vercel.app/",
         "sourceUrl": "https://github.com/airicbear/cis-4496-project",
-        "dateCreated": "2017-08-15"
+        "dateCreated": "2023-02-02"
     },
     {
         "title": "Tip Calculator",
-        "websiteUrl": "https://tipcalc.etndevel.com/",
+        "websiteUrl": "https://tipcalc.nguyene.com/",
         "sourceUrl": "https://github.com/airicbear/tip_calculator",
         "dateCreated": "2022-11-22"
     },
@@ -268,5 +268,11 @@
         "websiteUrl": "https://play.google.com/store/apps/details?id=com.etndevel.ateez_lyrics",
         "sourceUrl": "https://github.com/airicbear/ateez_lyrics",
         "dateCreated": "2022-07-26"
+    },
+    {
+        "title": "nguyene.com",
+        "websiteUrl": "https://nguyene.com",
+        "sourceUrl": "https://github.com/airicbear/nguyene-web-next",
+        "dateCreated": "2024-05-11"
     }
 ]
