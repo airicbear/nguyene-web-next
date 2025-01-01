@@ -274,5 +274,11 @@
         "websiteUrl": "https://nguyene.com",
         "sourceUrl": "https://github.com/airicbear/nguyene-web-next",
         "dateCreated": "2024-05-11"
+    },
+    {
+        "title": "Eric's Toolbox",
+        "websiteUrl": "https://toolbox.nguyene.com",
+        "sourceUrl": "https://github.com/airicbear/nguyene-toolbox",
+        "dateCreated": "2024-11-24"
     }
 ]
